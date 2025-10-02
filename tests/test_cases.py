@@ -1,4 +1,4 @@
-from src.app import add,sub
+from src.app import add,sub,mul
 
 def test_add():
     assert add(2,3)==5
